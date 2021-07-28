@@ -1,6 +1,6 @@
 /**
  * Created by matt on 2017/7/10.
- */ 
+ */  
 const GridExtent = require("./extent/GridExtent");
 class AbstractGrid {
     constructor() {
